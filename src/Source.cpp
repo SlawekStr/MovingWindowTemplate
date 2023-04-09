@@ -2,7 +2,7 @@
 
 int main()
 {
-	MovingWindow window(1920, 1080, "Moving window template", 60);
+	MovingWindow window(1920, 1080, "Moving window template", 144);
 	window.run();
 
 	return 0;
